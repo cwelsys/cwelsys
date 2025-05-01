@@ -21,9 +21,9 @@
     <a href="https://linkedin.com/in/connor-welsh">
         <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-connor--welsh-blue?style=for-the-badge&logo=linkedin-white&logoColor=EFF1F5&color=0A66C2">
     </a>
-    <a href="https://matrix.to/#/@connor:cwel.sh">
+<!--     <a href="https://matrix.to/#/@connor:cwel.sh">
         <img alt="Matrix" src="https://img.shields.io/badge/-@connor-black?style=for-the-badge&logo=matrix&logoColor=EFF1F5&color=313244">
-    </a>
+    </a> -->
 </p>
 <h5 align="center">Languages & Tools</h5>
 <!-- Tech Stack -->
