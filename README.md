@@ -16,8 +16,6 @@
         <img alt="Matrix" src="https://img.shields.io/badge/-@connor-black?style=for-the-badge&logo=matrix&logoColor=EFF1F5&color=313244">
     </a> -->
 </p>
-<h5 align="center">Github Stats</h5>
-
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -28,23 +26,3 @@
     />
   </a>
 </div>
-
-<br>
-
-<!-- Readme Stats & Top Languages -->
-<div align="center">
-  <img 
-    height="140" 
-    src="https://github-readme-stats-gray-omega-11.vercel.app/api?username=cwelsys&count_private=true&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=5&hide_border=true" 
-    alt="readme stats" 
-    style="margin: 0"
-  />
-  <img 
-    height="140" 
-    src="https://github-readme-stats-gray-omega-11.vercel.app/api/top-langs?username=cwelsys&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true&hide=html,css,roff" 
-    alt="cwelsys" 
-    style="margin: 0"
-  />
-</div>
-
-<br>
