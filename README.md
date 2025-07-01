@@ -16,46 +16,6 @@
         <img alt="Matrix" src="https://img.shields.io/badge/-@connor-black?style=for-the-badge&logo=matrix&logoColor=EFF1F5&color=313244">
     </a> -->
 </p>
-<h5 align="center">Languages & Tools</h5>
-<!-- Tech Stack -->
-<p align="center">
-    <!-- Languages -->
-    <a href="https://go.dev">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-    </a>
-    <a href="https://www.lua.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" alt="Lua" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-    </a>
-    <a href="https://rust-lang.org">
-        <img src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rust" width="50" height="50"/>
-    </a>
-    <a href="https://python.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://github.com/PowerShell/PowerShell">
-        <img src="https://avatars.githubusercontent.com/u/11524380" alt="PowerShell" width="50" height="50"/>
-    </a>
-    <!-- Operating Systems / Platforms -->
-    <a href="https://www.debian.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="Debian" width="50" height="50"/>
-    </a>
-    <a href="https://docker.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/>
-    </a>
-    <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    </a>
-    <!-- Tools / Frameworks -->
-    <a href="https://tailwindcss.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
-    </a>
-    <a href="https://code.visualstudio.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-    </a>
-</p>
 <h5 align="center">Github Stats</h5>
 
 <!-- Streak Stats -->
@@ -88,13 +48,3 @@
 </div>
 
 <br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img 
-    height="280" 
-    src="https://github-readme-activity-graph-beta-lime.vercel.app/graph?username=cwelsys&bg_color=1E1E2E&color=94E2D5&line=CBA6F7&point=CDD6F4&hide_border=true&hide_title=true" 
-    alt="activity graph" 
-    style="margin: 0"
-  />
-</div>
