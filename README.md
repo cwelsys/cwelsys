@@ -1,12 +1,3 @@
-<p align="center">
-    <a href="https://github.com/cwelsys">
-        <img alt="Hello I'm @cwelsys" img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=20&duration=1&pause=999999&color=94E2D5&vCenter=true&width=435&height=30&lines=🙋‍♂️+Hello!+I'm+@cwelsys" /></a>
-</p>
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="Word soup" img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&duration=4200&pause=690&color=94E2D5&random=true&width=435&lines=%F0%9F%92%BB+Terminal+tinkerer;%E2%9A%A1+Power+user;%F0%9F%8E%A8+Aesthetic+appreciator;%F0%9F%94%8DTech+stack+explorer+;%F0%9F%A4%93Developer-adjacent+;%F0%9F%A4%96+Automation+junkie;%F0%9F%90%A7+Linux+enjoyer;%F0%9F%A5%B7+Dotfile+bandit;%F0%9F%90%B3+Docker+stack+wrangler;%F0%9F%94%84+Workflow+optimizer;%F0%9F%A7%A0+Continuous+learner;%F0%9F%97%83%EF%B8%8F+Organized+systems+architect;%F0%9F%94%90+Security+conscious;%E2%9B%93%EF%B8%8F+Dependency+aware;%F0%9F%8C%B1+Open-source+enthusiast;%F0%9F%A7%B9+Clean+setup+evangelist;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBSoftware+Engineer;%F0%9F%9A%A8Systems+Admin;%F0%9F%94%90Cybersecurity+acknowledger" /></a>
-</p>
-
 <!-- Badges -->
 <p align="center">
     <a href="https://cwel.sh">
